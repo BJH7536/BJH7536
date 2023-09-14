@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BJH7536
 - 👀 I’m interested in programming web, games, and some programs.
-- 🌱 I’m currently learning C++, HTML/CSS3/JSP, Java.
+- 🌱 I’m currently learning about Security, Game Develop, Web Server (Back-end)
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me using a01091363615@gmail.com
 
