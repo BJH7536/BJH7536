@@ -7,7 +7,7 @@
 
 ## 🌱 I’m currently learning about ...
 
-### About Security 
+### Security 
 - 5G Security architecture and procedures for 5G system
 - Cryptology
   
