@@ -29,7 +29,7 @@
   
 ### MessMath (제 3회 웅진 씽크빅 게임 개발 챌린지)
 - My First Competition Experience. 
-  - However, although he did not win the award, we made it to the finals
+  - However, although we did not win the award, we made it to the finals
 - https://wjtbgamechallenge.com/
 
 ## 
