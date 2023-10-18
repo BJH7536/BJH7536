@@ -21,7 +21,7 @@
 - A.I
 - OS
 
-## 🧾 And This is What i Did
+## 🧾 And This is what i did
 
 ### UpToSky
 - First Game Me & My Team made.
