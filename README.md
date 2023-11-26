@@ -3,7 +3,7 @@
 ## 👀 I’m interested in ...
 - Game Develops & Security
 - Unity
-- Network Security
+- Network (5G) Security
 
 ## 🌱 I’m currently learning about ...
 
