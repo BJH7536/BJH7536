@@ -34,6 +34,10 @@
 - https://github.com/MessMath/MessMath
 - https://wjtbgamechallenge.com/
 
+### 혼합현실(MR) 기기 기반 수학 교육 애플리케이션 개발
+- 배정훈, 이승빈, 유지훈, 오승혁, 배지호, 이지상, 김지윤. (2023.11). 혼합현실(MR) 기기 기반 수학 교육 애플리케이션 개발. Proceedings of KIIT Conference, 한국정보기술학회 2023년도 추계종합학술대회 및 대학생논문경진대회.
+- https://github.com/BJH7536/HoloLens_CEO
+
 ## 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BJH7536&langs_count=5&layout=compact&theme=white)](https://github.com/BJH7536/BJH7536)
 
