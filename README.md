@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @BJH7536
 
 ## 👀 I’m interested in ...
-- Game Develops & Security
+- Game Develops
 - Unity
-- Network (5G) Security
+- XR (VR, AR, MR)
 
 ## 🌱 I’m currently learning about ...
 
@@ -29,13 +29,14 @@
 - https://play.google.com/store/apps/details?id=com.DefaultCompany.UpToSky&hl=ko&gl=US
   
 ### MessMath (제 3회 웅진 씽크빅 게임 개발 챌린지)
-- My First Competition Experience. 
+- My First Competition Experience.
   - However, although we did not win the award, we made it to the finals
 - https://github.com/MessMath/MessMath
 - https://wjtbgamechallenge.com/
 
 ### 혼합현실(MR) 기기 기반 수학 교육 애플리케이션 개발
 - 배정훈, 이승빈, 유지훈, 오승혁, 배지호, 이지상, 김지윤. (2023.11). 혼합현실(MR) 기기 기반 수학 교육 애플리케이션 개발. Proceedings of KIIT Conference, 한국정보기술학회 2023년도 추계종합학술대회 및 대학생논문경진대회.
+- 우수논문상 동상 수상
 - https://github.com/BJH7536/HoloLens_CEO
 
 ## 
