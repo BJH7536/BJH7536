@@ -5,22 +5,6 @@
 - Unity
 - XR (VR, AR, MR)
 
-## 🌱 I’m currently learning about ...
-
-### Security 
-- 5G Security architecture and procedures for 5G system
-- Cryptology
-  
-### Game Develop
-- Unity & ML-Agent
-- Computer Graphics
-
-### Computer Science
-- Machine Learning
-- Algorithm
-- A.I
-- OS
-
 ## 🧾 And This is what i did
 
 ### UpToSky
