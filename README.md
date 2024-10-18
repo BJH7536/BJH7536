@@ -1,8 +1,7 @@
 # 👋 Hi, I’m @BJH7536
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBJH7536&count_bg=%23333333&title_bg=%23333333&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<samp> 
 몰입하는 개발자 배정훈입니다.
-</samp>
 
 ## 🛠️ Stacks
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjh7536)](https://solved.ac/bjh7536/)
